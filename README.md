@@ -1,4 +1,4 @@
-# -VinnyHubs-powerbi-mobile-sales-dashboard-
+-powerbi-mobile-sales-dashboard-
 # Mobile Sales Dashboard (Power BI)
 
 This is a Power BI dashboard project showing mobile sales analysis.
